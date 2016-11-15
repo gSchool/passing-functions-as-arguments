@@ -21,7 +21,7 @@ Additionally, you will be introduced to a couple intermediate JavaScript languag
 
 ## The Plan
 
-In this lesson, in order to be able to correctly define and invoke functions that invoke passed-in functions, and to be able to invoke these passed-in functions with other arguments passed into the main funciton, you will first get comfortable with:
+In this lesson, in order to be able to correctly define and invoke functions that invoke passed-in functions, and to be able to invoke these passed-in functions with other arguments passed into the main function, you will first get comfortable with:
 - Passing in function definitions and invoking them within main functions.
 - Gathering into arrays the arguments that need to be given to passed-in functions using *rest parameters*.
 - Using the *spread syntax* to deliver the elements of *rest parameter* arrays to passed-in functions.
