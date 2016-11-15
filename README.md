@@ -106,7 +106,7 @@ var spokenWord = callFunctionWithWord(sayWord);
 
 :question: If we passed a different function into `callFunctionWithWord`, what argument would it be called with?
 
-:star: Complete the `callFunctionWithThree` definition below. It should return the results of passing the number `3` into whatever function is passed into it as its first argument.
+:star: Complete the `callFunctionWithThree` definition below. `callFunctionWithThree` should return the results of passing the number `3` into whatever function is passed into `callFunctionWithThree` as its first argument.
 
 ```javascript
 function callFunctionWithThree(func) {
