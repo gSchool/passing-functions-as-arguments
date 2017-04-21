@@ -2,9 +2,15 @@
 
 ## Objective
 
-By the end of this lesson you will be able to define and invoke a function that takes a function definition as one of its arguments. You will also be able to return the results of calling this passed-in function with other arguments passed into the main function.
+By the end of this lesson you will be able to:
 
-In service of this main objective you will also be able to define and invoke functions that correctly utilize *rest parameters*, and, be able to use the *spread syntax* in a function call, to convert an array into a list of arguments.
+- Define and invoke a function that takes a function definition as one of its arguments
+- Return the results of calling this passed-in function with other arguments passed into the main function
+
+In service of this main objective you will also be able to:
+
+- Define and invoke functions that correctly utilize *rest parameters*
+- Be able to use the *spread syntax* in a function call, to convert an array into a list of arguments
 
 ## Prerequisites
 
